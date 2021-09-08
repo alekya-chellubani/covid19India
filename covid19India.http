@@ -1,0 +1,30 @@
+GET http://localhost:3003/states/
+
+###
+
+GET http://localhost:3003/states/2
+
+###
+
+POST http://localhost:3003/districts/
+
+###
+
+
+GET http://localhost:3003/districts/322
+
+###
+
+DELETE http://localhost:3003/districts/342
+
+###
+
+PUT http://localhost:3003/districts/354
+
+###
+
+GET http://localhost:3003/states/2/stats
+
+###
+
+GET http://localhost:3003/districts/322/details/
